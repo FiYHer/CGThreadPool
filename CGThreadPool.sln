@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CGThreadPool", "CGThreadPool\CGThreadPool.vcxproj", "{2DCDC1DA-41A3-43B6-8F15-F2FD909C88BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DCDC1DA-41A3-43B6-8F15-F2FD909C88BD}.Debug|x64.ActiveCfg = Debug|x64
+		{2DCDC1DA-41A3-43B6-8F15-F2FD909C88BD}.Debug|x64.Build.0 = Debug|x64
+		{2DCDC1DA-41A3-43B6-8F15-F2FD909C88BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{2DCDC1DA-41A3-43B6-8F15-F2FD909C88BD}.Debug|x86.Build.0 = Debug|Win32
+		{2DCDC1DA-41A3-43B6-8F15-F2FD909C88BD}.Release|x64.ActiveCfg = Release|x64
+		{2DCDC1DA-41A3-43B6-8F15-F2FD909C88BD}.Release|x64.Build.0 = Release|x64
+		{2DCDC1DA-41A3-43B6-8F15-F2FD909C88BD}.Release|x86.ActiveCfg = Release|Win32
+		{2DCDC1DA-41A3-43B6-8F15-F2FD909C88BD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {989BD363-0E25-46B8-8B8A-118E320055A8}
+	EndGlobalSection
+EndGlobal
